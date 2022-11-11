@@ -14,9 +14,14 @@
 }
 
 .white {
-    background-color: pink;
+    background-color: lightgrey;
 }
 
 .black {
     background-color: darkgrey;
+}
+
+.isMoveOption {
+    cursor: pointer;
+    background-color: pink;
 }
