@@ -14,9 +14,9 @@
 }
 
 .white {
-    background-color: blue;
+    background-color: lightgrey
 }
 
 .black {
-    background-color: pink;
+    background-color: darkgrey;
 }
