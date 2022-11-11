@@ -1,4 +1,4 @@
-import * as Chess from 'js-chess-engine';
+//import * as Chess from 'js-chess-engine';
 import styles from '../styles/Chess.module.css';
 //export default function ChessPage() {
   //return <div>Testing New Page</div>;
